@@ -28,9 +28,24 @@ Discount
 ![YOOGA - Google Chrome 19-01-2023 18_19_12](https://user-images.githubusercontent.com/85476926/213447316-7ab96776-2e6f-46a7-ade7-5aef24392f0c.png)
 Pricing
 ![YOOGA - Google Chrome 19-01-2023 18_19_17](https://user-images.githubusercontent.com/85476926/213447320-b021cde8-363c-41bd-9f39-a966c97b1566.png)
+Trainers
 ![YOOGA - Google Chrome 19-01-2023 18_19_23](https://user-images.githubusercontent.com/85476926/213447325-9749e2d6-ef95-422c-9b1e-a894e6fe150b.png)
+Footer 
 ![YOOGA - Google Chrome 19-01-2023 18_19_27](https://user-images.githubusercontent.com/85476926/213447340-574be8c1-8dd9-498c-8ed0-47cbee939571.png)
+About us Page
 ![YOOGA - Google Chrome 19-01-2023 18_19_39](https://user-images.githubusercontent.com/85476926/213447344-c7502a37-3dbf-4ad3-a52e-3e4bea4380a3.png)
+Trainer Page
 ![YOOGA - Google Chrome 19-01-2023 18_19_46](https://user-images.githubusercontent.com/85476926/213447347-3ba63a19-a07d-412e-800d-ee70e8c4fe33.png)
+Contacts Page
 ![YOOGA - Google Chrome 19-01-2023 18_19_51](https://user-images.githubusercontent.com/85476926/213447357-2e691a0e-01fd-4667-a90c-1c36e099110d.png)
+Health Bot Page
 ![YOOGA - Google Chrome 19-01-2023 18_19_58](https://user-images.githubusercontent.com/85476926/213447359-4831f568-86aa-4c88-a835-d9c5efb1142a.png)
+Services Used
+![Home - Microsoft Azure - Google Chrome 19-01-2023 18_27_46](https://user-images.githubusercontent.com/85476926/213448898-df99de73-fdee-455c-be26-d0a5ab2a8168.png)
+
+## Built-with
+[Azure Static Web Apps](https://azure.microsoft.com/en-au/products/app-service/static/)
+[Azure Health Bot](https://azure.microsoft.com/en-us/products/bot-services/health-bot/)
+
+## Author
+ Ganesh Sharma
