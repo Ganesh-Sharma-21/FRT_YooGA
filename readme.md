@@ -44,8 +44,8 @@ Services Used
 ![Home - Microsoft Azure - Google Chrome 19-01-2023 18_27_46](https://user-images.githubusercontent.com/85476926/213448898-df99de73-fdee-455c-be26-d0a5ab2a8168.png)
 
 ## Built-with
-[Azure Static Web Apps](https://azure.microsoft.com/en-au/products/app-service/static/)
-[Azure Health Bot](https://azure.microsoft.com/en-us/products/bot-services/health-bot/)
+- [Azure Static Web Apps](https://azure.microsoft.com/en-au/products/app-service/static/)
+- [Azure Health Bot](https://azure.microsoft.com/en-us/products/bot-services/health-bot/)
 
 ## Author
  Ganesh Sharma
