@@ -3,7 +3,6 @@
 ## Contents
 
 - [YooGA](#YooGA)
-  - [Contents](#contents)
   - [Description](#description)
   - [Demo video](#demo-video)
   - [Screenshots](#screenshots)
